@@ -8,7 +8,7 @@ require (
 	github.com/glebarez/sqlite v1.7.0
 	github.com/go-playground/assert/v2 v2.2.0
 	golang.org/x/crypto v0.7.0
-	gorm.io/gorm v1.24.6
+	gorm.io/gorm v1.25.1
 )
 
 require (
